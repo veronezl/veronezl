@@ -1,6 +1,5 @@
-###  Olá! Sou Lucas Veronez
 <p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr8cqrAznnF8SPJ53AkNak02niyyCY0gtUOg&s">
-# Olá, sou [Seu Nome]! 👋
+# Olá! Sou Lucas Veronez 👋
 
 Bem-vindo ao meu perfil no GitHub!
 
@@ -21,7 +20,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência 
 veronezl(https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true)
 
 ## 📫 Como entrar em contato comigo
-- Email: seu-email@example.com
+- Email: lucasveronez.dev@gmail.com
 - LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu-perfil/)
 
 

@@ -21,6 +21,6 @@ veronezl(https://github-readme-stats.vercel.app/api?username=seu-username&show_i
 
 ## 📫 Como entrar em contato comigo
 - Email: lucasveronez.dev@gmail.com
-- LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+- LinkedIn: https://www.linkedin.com/in/lucas-veronez-ab4168275?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bvqe05x7rSGmfR9slWuu%2FtQ%3D%3D
 
 

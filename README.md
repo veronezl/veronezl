@@ -4,15 +4,15 @@
 Bem-vindo ao meu perfil no GitHub!
 
 ## 🌐 Sobre Mim
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em várias tecnologias, incluindo Java, SQL e Apache2. Adoro explorar novas ferramentas e frameworks para aprimorar minhas habilidades e contribuir para projetos interessantes.
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em várias tecnologias, incluindo Ruby on Rails, Java, PHP, HTML e CSS. Adoro explorar novas ferramentas e frameworks para aprimorar minhas habilidades e contribuir para projetos interessantes.
 
 ## 💻 Tecnologias e Ferramentas
-- **Java:** Desenvolvimento de aplicações robustas e escaláveis
+- **Ruby on Rails:** Desenvolvimento de aplicações robustas e escaláveis
 - **SQL:** Gestão e manipulação de dados em bancos de dados relacionais
 - **Apache2:** Configuração e gerenciamento de servidores web
 
 ## 📚 Estou Aprendendo
-- Frameworks Java avançados para melhorar a performance de aplicações web
+- Frameworks Rails para melhorar a performance de aplicações web
 - Técnicas de otimização de bancos de dados SQL
 - Segurança e otimização em servidores Apache2
 

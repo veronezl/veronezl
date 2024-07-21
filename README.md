@@ -17,7 +17,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência 
 - Segurança e otimização em servidores Apache2
 
 ## 📈 Estatísticas do GitHub
-veronezl(https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true)
+veronezl(https://github/veronezl)
 
 ## 📫 Como entrar em contato comigo
 - Email: lucasveronez.dev@gmail.com

@@ -4,7 +4,7 @@
 Bem-vindo ao meu perfil no GitHub!
 
 ## 🌐 Sobre Mim
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em várias tecnologias, incluindo Ruby on Rails, Java, PHP, HTML e CSS. Adoro explorar novas ferramentas e frameworks para aprimorar minhas habilidades e contribuir para projetos interessantes.
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em várias tecnologias, incluindo Ruby on Rails, Java, PHP, HTML e CSS. Busco explorar novas ferramentas e frameworks para aprimorar minhas habilidades e contribuir para projetos interessantes.
 
 ## 💻 Tecnologias e Ferramentas
 - **Ruby on Rails:** Desenvolvimento de aplicações robustas e escaláveis
@@ -21,6 +21,5 @@ veronezl(https://github-readme-stats.vercel.app/api?username=seu-username&show_i
 
 ## 📫 Como entrar em contato comigo
 - Email: lucasveronez.dev@gmail.com
-- LinkedIn: https://www.linkedin.com/in/lucas-veronez-ab4168275?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bvqe05x7rSGmfR9slWuu%2FtQ%3D%3D
-
+- LinkedIn: https://br.linkedin.com/in/lucas-veronez-ab4168275
 

@@ -7,14 +7,18 @@ Bem-vindo ao meu perfil no GitHub!
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em várias tecnologias, incluindo C#, Java, PHP, HTML e CSS. Busco explorar novas ferramentas e frameworks para aprimorar minhas habilidades e contribuir para projetos interessantes.
 
 ## 💻 Tecnologias e Ferramentas
-- **C# / .Net:** Desenvolvimento de aplicações robustas e escaláveis
-- **SQL:** Gestão e manipulação de dados em bancos de dados relacionais
-- **Apache2:** Configuração e gerenciamento de servidores web
+- C# / .Net: Desenvolvimento de aplicações robustas e escaláveis
+- SQL SERVER: Gestão e manipulação de dados em bancos de dados relacionais
+- Git / GitHub: Versionamento de códigos
+- Visual Studio - Ambiennte de desenvolvimento integrado e depuração e otimização de código
 
 ## 📚 Estou Aprendendo
-- Frameworks .Net para melhorar a performance de aplicações web
+- Frameworks .Net / ASP.Net / Entity -  para melhorar a performance de aplicações web
 - Técnicas de otimização de bancos de dados SQL
-- Segurança e otimização em servidores Apache2
+- Desing Patterns
+- Cloud Coputing: Azure e AWS
+- Testes: Unitários de integração
+- Metodologias Ágeis: Scrum / Kanban
 
 ## 📈 Estatísticas do GitHub
 veronezl(https://github/veronezl)

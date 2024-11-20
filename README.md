@@ -15,6 +15,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência 
 ## 📚 Estou Aprendendo
 - Frameworks .Net / ASP.Net / Entity -  para melhorar a performance de aplicações web
 - Técnicas de otimização de bancos de dados SQL
+- LINQ - Permite consultar e processar dados de forma declarativa, usando uma sintaxe similar à SQL
 - Desing Patterns
 - Cloud Coputing: Azure e AWS
 - Testes: Unitários de integração

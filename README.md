@@ -26,5 +26,7 @@ veronezl(https://github/veronezl)
 
 ## 📫 Como entrar em contato comigo
 - Email: lucasveronez.dev@gmail.com
-- LinkedIn: https://br.linkedin.com/in/lucas-veronez-ab4168275
+- LinkedIn: www.linkedin.com/in/lucasveronezdev
+
+
 
